@@ -1,0 +1,5 @@
+/text
+.vscode/
+build/
+main.md
+*.exe
