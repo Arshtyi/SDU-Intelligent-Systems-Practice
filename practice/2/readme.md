@@ -40,9 +40,11 @@ $
 ### Output
 
 输出类似如下形式
+
 $
 线路r_1:s_{11}->s_{12}->\cdots->s_{1j}换乘r_2:s_{21}->s_{22}->\cdots->s_{2j}->\cdots换乘r_i:s_{i1}->s_{i2}->\cdots->s_{ij}总cost
 $
+
 其中,cost 视该查询针对类型而定,可能是花费或用时
 
 ## Environment
